@@ -15,3 +15,5 @@ node_modules/
 # Archivos de configuración del entorno
 .env
 
+# Configuración personal de Git
+.gitconfig
