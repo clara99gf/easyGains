@@ -1,1 +1,19 @@
+# Archivos de configuración del IDE
+.vscode/
 
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de compilación
+/dist/
+/build/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración del entorno
+.env
+
+# Configuración personal de Git
+.gitconfig
