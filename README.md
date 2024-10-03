@@ -29,3 +29,30 @@ Para configurar el entorno de desarrollo de **easyGains**, se han llevado a cabo
 
 - **Configuración de Nombre y Correo**: Se han configurado las variables globales de usuario (nombre y correo electrónico) para que Git pueda asociar correctamente los commits. Consulta la captura en [nombre_correo.png](./configuracion_entorno/nombre_correo.png).
 
+## Documentación Adicional
+
+### Milestones
+
+El desarrollo de **easyGains** está organizado en milestones para lograr avances graduales en la implementación de las funcionalidades clave. Se pueden consultar los detalles de cada milestone en la carpeta `docs/milestones`.
+
+- [Milestone 0 (interno): Estructura Inicial del Proyecto](./docs/milestones/milestone-0.md)
+- [Milestone 1: Implementación del Registro de Usuarios](./docs/milestones/milestone-1.md)
+- [Milestone 2: Inicio de Sesión de Usuario](./docs/milestones/milestone-2.md)
+- [Milestone 3: Recopilación de Datos del Usuario (Parte 1)](./docs/milestones/milestone-3.md)
+- [Milestone 4: Recopilación de Datos del Usuario (Parte 2)](./docs/milestones/milestone-4.md)
+
+### Historias de Usuario
+
+Las historias de usuario definen las necesidades de los usuarios y las funcionalidades específicas que el sistema debe proporcionar para cumplir con ellas. Puedes consultar cada historia de usuario en la carpeta `docs/user_stories`.
+
+- [HU001: Rutina Personalizada](./docs/user_stories/HU001.md)
+- [HU002: Rutina Flexible](./docs/user_stories/HU002.md)
+- [HU003: Ajustar Nivel Entrenamiento](./docs/user_stories/HU003.md)
+
+### User Journeys
+
+Además de las historias de usuario, se han creado algunos **User Journeys** para describir el viaje completo del usuario a través de la aplicación, cubriendo diferentes interacciones y funcionalidades. Estos journeys detallan la frecuencia de uso, el contexto, el dispositivo y los pasos que el usuario debe seguir para lograr sus objetivos. Puedes consultarlos en la carpeta `docs/user_journeys`.
+
+- [Journey: Registro de Usuario](./docs/user_journeys/registro_usuario.md)
+- [Journey: Generación de Rutina](./docs/user_journeys/generacion_rutina.md)
+
