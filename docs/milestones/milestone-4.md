@@ -6,7 +6,7 @@ Permitir a los usuarios ingresar la cantidad de días disponibles para entrenar.
 ## Producto Mínimamente Viable (PMV)
 Los usuarios pueden ingresar cuántos días a la semana pueden dedicar al entrenamiento.
 
-## Requisitos Técnicos
+## Requisitos de Validación
 - Desarrollo de la interfaz para ingresar días disponibles.
 - Validación de entradas.
 - Actualización de la información en la base de datos.

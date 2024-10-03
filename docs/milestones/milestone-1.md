@@ -6,7 +6,7 @@ Permitir a los usuarios registrarse en la aplicación.
 ## Producto Mínimamente Viable (PMV)
 Los usuarios pueden crear una cuenta en la aplicación.
 
-## Requisitos Técnicos
+## Requisitos de Validación
 - Configuración de la base de datos para almacenar usuarios.
 - Implementación de un formulario de registro.
 - Validaciones de entrada (correo electrónico, contraseña, etc.).

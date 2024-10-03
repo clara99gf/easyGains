@@ -6,7 +6,7 @@ Permitir a los usuarios iniciar sesión en la aplicación.
 ## Producto Mínimamente Viable (PMV)
 Los usuarios pueden acceder a su cuenta después de registrarse.
 
-## Requisitos Técnicos
+## Requisitos de Validación
 - Desarrollo de formulario de inicio de sesión.
 - Implementación de validaciones para la autenticación de usuarios.
 - Integración con la base de datos para verificar las credenciales.
