@@ -27,7 +27,7 @@ Se habrá realizado un análisis exhaustivo de las historias de usuario y se pre
 ## Milestone 1: Implementación del Registro de Usuarios
 
 ### Descripción
-Este milestone se centrará en la implementación de la lógica de negocio para permitir la generación y personalización de rutinas de entrenamiento en **easyGains**. Se debe establecer cómo el sistema gestionará la personalización de las rutinas según los días disponibles para entrenar y el nivel de experiencia. 
+Este milestone se centrará en la implementación de la lógica de negocio siguiendo **buenas prácticas** para permitir la generación y personalización de rutinas de entrenamiento en **easyGains**. Se debe establecer cómo el sistema gestionará la personalización de las rutinas según los días disponibles para entrenar y el nivel de experiencia. 
 
 ### Producto Mínimamente Viable (PMV)
 El PMV de este milestone incluirá una lógica de negocio que:
