@@ -29,3 +29,23 @@ Para configurar el entorno de desarrollo de **easyGains**, se han llevado a cabo
 
 - **Configuración de Nombre y Correo**: Se han configurado las variables globales de usuario (nombre y correo electrónico) para que Git pueda asociar correctamente los commits. Consulta la captura en [nombre_correo.png](./configuracion_entorno/nombre_correo.png).
 
+## Documentación Adicional
+
+### Milestones
+
+El desarrollo de **easyGains** está organizado en milestones para lograr avances graduales en la implementación de las funcionalidades clave. Se pueden consultar los detalles de cada milestone en la carpeta `docs`.
+
+- [Milestones del Proyecto](./docs/milestones.md)
+
+### Historias de Usuario
+
+Las historias de usuario definen las necesidades de los usuarios. Se puede consultar cada historia de usuario en el archivo `user-stories.md`.
+
+- [Historias de Usuario](./docs/user-stories.md)
+
+### User Journeys
+
+Además de las historias de usuario, se han creado algunos **User Journeys** para describir el viaje completo del usuario a través de la aplicación, cubriendo diferentes interacciones y funcionalidades. Estos journeys detallan la frecuencia de uso, el contexto, el dispositivo y los pasos que el usuario debe seguir para lograr sus objetivos. Se pueden consultar en el archivo `user-journeys.md`.
+
+- [User Journeys](./docs/user-journeys.md)
+
