@@ -42,8 +42,31 @@ El PMV de este milestone incluirá:
 2. **Almacenamiento de Información**:
    - Confirmar que los datos ingresados se guardan correctamente para su uso posterior en la generación de rutinas.
 
+### Historias de Usuario
+- **HU001**: Rutina Personalizada
+- **HU002**: Rutina Flexible
+- **HU003**: Ajustar Nivel Entrenamiento
+
+
+## Milestone 2: Aplicación de la Lógica de Negocio (Generación de Rutinas Personalizadas)
+
+### Descripción
+Este milestone implementará la lógica de negocio que personaliza las rutinas de entrenamiento según los datos ingresados por los usuarios. Usando el nivel de experiencia y los días disponibles, se generarán planes de entrenamiento ajustados a las necesidades de cada usuario.
+
+### Producto Mínimamente Viable (PMV)
+El PMV de este milestone incluirá:
+- Algoritmo que genere rutinas personalizadas en función de la cantidad de días disponibles para entrenar y el nivel de experiencia del usuario (principiante, intermedio o avanzado).
+
+### Requisitos de Validación
+1. **Generación de Rutinas Personalizadas**:
+   - Verificar que se generan rutinas que varían según el nivel de experiencia del usuario.
+   - Confirmar que las rutinas se ajustan a la cantidad de días disponibles para entrenar.
+
+2. **Ajuste del Nivel de Entrenamiento**:
+   - Validar que los usuarios pueden ajustar su nivel de entrenamiento y que la rutina se modifique automáticamente en función de estos ajustes.
 
 ### Historias de Usuario
 - **HU001**: Rutina Personalizada
 - **HU002**: Rutina Flexible
 - **HU003**: Ajustar Nivel Entrenamiento
+
